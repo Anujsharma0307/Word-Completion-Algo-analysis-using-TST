@@ -1,0 +1,712 @@
+*************************
+*****LIST DICTIONARY*****
+*************************
+-------
+--ADD--
+-------
+Dictionary Length: 100
+Command: Add a word
+AverageTime:0.0007319750000000513
+-------
+--ADD--
+-------
+Dictionary Length: 200
+Command: Add a word
+AverageTime:0.00032655000000003653
+-------
+--ADD--
+-------
+Dictionary Length: 500
+Command: Add a word
+AverageTime:0.00035397500000000637
+-------
+--ADD--
+-------
+Dictionary Length: 1000
+Command: Add a word
+AverageTime:0.0008080749999999637
+-------
+--ADD--
+-------
+Dictionary Length: 2000
+Command: Add a word
+AverageTime:0.0007845249999999804
+-------
+--ADD--
+-------
+Dictionary Length: 5000
+Command: Add a word
+AverageTime:0.0007264000000000159
+-------
+--ADD--
+-------
+Dictionary Length: 10000
+Command: Add a word
+AverageTime:0.0009228000000000014
+-------
+--ADD--
+-------
+Dictionary Length: 20000
+Command: Add a word
+AverageTime:0.002198499999999992
+-------
+--ADD--
+-------
+Dictionary Length: 50000
+Command: Add a word
+AverageTime:0.0035480999999999985
+-------
+--ADD--
+-------
+Dictionary Length: 100000
+Command: Add a word
+AverageTime:0.006558150000000013
+-------
+--ADD--
+-------
+Dictionary Length: 200000
+Command: Add a word
+AverageTime:0.012959749999999992
+---------- ACP -----------
+-------
+-------
+Dictionary Length: 100
+Command: AutoCOmplete a word
+AverageTime:0.0005127500000000063
+-------
+-------
+Dictionary Length: 200
+Command: AutoCOmplete a word
+AverageTime:0.0008849999999999691
+-------
+-------
+Dictionary Length: 500
+Command: AutoCOmplete a word
+AverageTime:0.0004963000000000051
+-------
+-------
+Dictionary Length: 1000
+Command: AutoCOmplete a word
+AverageTime:0.00044650000000001633
+-------
+-------
+Dictionary Length: 2000
+Command: AutoCOmplete a word
+AverageTime:0.0004902750000000122
+-------
+-------
+Dictionary Length: 5000
+Command: AutoCOmplete a word
+AverageTime:0.0009222249999999987
+-------
+-------
+Dictionary Length: 10000
+Command: AutoCOmplete a word
+AverageTime:0.0018336250000000054
+-------
+-------
+Dictionary Length: 20000
+Command: AutoCOmplete a word
+AverageTime:0.0030940750000000017
+-------
+-------
+Dictionary Length: 50000
+Command: AutoCOmplete a word
+AverageTime:0.006126250000000055
+-------
+-------
+Dictionary Length: 100000
+Command: AutoCOmplete a word
+AverageTime:0.01309824999999995
+-------
+-------
+Dictionary Length: 200000
+Command: AutoCOmplete a word
+AverageTime:0.021769999999999956
+---------- SER -----------
+-------
+-------
+Dictionary Length: 100
+Command: AC a word
+AverageTime:0.00044557500000003136
+-------
+-------
+Dictionary Length: 200
+Command: AC a word
+AverageTime:0.00041204999999999714
+-------
+-------
+Dictionary Length: 500
+Command: AC a word
+AverageTime:0.0006427999999999989
+-------
+-------
+Dictionary Length: 1000
+Command: AC a word
+AverageTime:0.0004601999999999662
+-------
+-------
+Dictionary Length: 2000
+Command: AC a word
+AverageTime:0.000525875000000009
+-------
+-------
+Dictionary Length: 5000
+Command: AC a word
+AverageTime:0.0005634499999999931
+-------
+-------
+Dictionary Length: 10000
+Command: AC a word
+AverageTime:0.0008154249999999807
+-------
+-------
+Dictionary Length: 20000
+Command: AC a word
+AverageTime:0.00172230000000001
+-------
+-------
+Dictionary Length: 50000
+Command: AC a word
+AverageTime:0.002190874999999981
+-------
+-------
+Dictionary Length: 100000
+Command: AC a word
+AverageTime:0.005899025000000002
+-------
+-------
+Dictionary Length: 200000
+Command: AC a word
+AverageTime:0.017025949999999956
+-------
+--DEL--
+-------
+Dictionary Length: 100
+Command: Delete a word
+AverageTime:0.0005007999999999679
+-------
+--DEL--
+-------
+Dictionary Length: 200
+Command: Delete a word
+AverageTime:0.0004409749999999546
+-------
+--DEL--
+-------
+Dictionary Length: 500
+Command: Delete a word
+AverageTime:0.0003737249999999914
+-------
+--DEL--
+-------
+Dictionary Length: 1000
+Command: Delete a word
+AverageTime:0.0003958249999999608
+-------
+--DEL--
+-------
+Dictionary Length: 2000
+Command: Delete a word
+AverageTime:0.0008384250000000315
+-------
+--DEL--
+-------
+Dictionary Length: 5000
+Command: Delete a word
+AverageTime:0.0016450250000000222
+-------
+--DEL--
+-------
+Dictionary Length: 10000
+Command: Delete a word
+AverageTime:0.0016115000000000435
+-------
+--DEL--
+-------
+Dictionary Length: 20000
+Command: Delete a word
+AverageTime:0.0032916249999999647
+-------
+--DEL--
+-------
+Dictionary Length: 50000
+Command: Delete a word
+AverageTime:0.00736777499999991
+-------
+--DEL--
+-------
+Dictionary Length: 100000
+Command: Delete a word
+AverageTime:0.01289965000000004
+-------
+--DEL--
+-------
+Dictionary Length: 200000
+Command: Delete a word
+AverageTime:0.02598085
+*************************
+*****HASH DICTIONARY*****
+*************************
+---------- ADD -----------
+-------
+-------
+Dictionary Length: 100
+Command: Add a word
+AverageTime:0.0006272999999999418
+-------
+-------
+Dictionary Length: 200
+Command: Add a word
+AverageTime:0.0005320499999999506
+-------
+-------
+Dictionary Length: 500
+Command: Add a word
+AverageTime:0.00042597500000002286
+-------
+-------
+Dictionary Length: 1000
+Command: Add a word
+AverageTime:0.0003418500000000879
+-------
+-------
+Dictionary Length: 2000
+Command: Add a word
+AverageTime:0.0002957749999999981
+-------
+-------
+Dictionary Length: 5000
+Command: Add a word
+AverageTime:0.0002795500000000728
+-------
+-------
+Dictionary Length: 10000
+Command: Add a word
+AverageTime:0.0004297500000000065
+-------
+-------
+Dictionary Length: 20000
+Command: Add a word
+AverageTime:0.0005467999999999584
+-------
+-------
+Dictionary Length: 50000
+Command: Add a word
+AverageTime:0.00028242499999997506
+-------
+-------
+Dictionary Length: 100000
+Command: Add a word
+AverageTime:0.0002774999999999861
+-------
+-------
+Dictionary Length: 200000
+Command: Add a word
+AverageTime:0.00023775000000003654
+---------- ACP -----------
+-------
+-------
+Dictionary Length: 100
+Command: Search a word
+AverageTime:0.00024759999999995896
+-------
+-------
+Dictionary Length: 200
+Command: Search a word
+AverageTime:0.00036484999999991663
+-------
+-------
+Dictionary Length: 500
+Command: Search a word
+AverageTime:0.005670750000000002
+-------
+-------
+Dictionary Length: 1000
+Command: Search a word
+AverageTime:0.00046915000000002927
+-------
+-------
+Dictionary Length: 2000
+Command: Search a word
+AverageTime:0.000581225000000074
+-------
+-------
+Dictionary Length: 5000
+Command: Search a word
+AverageTime:0.0005812500000000886
+-------
+-------
+Dictionary Length: 10000
+Command: Search a word
+AverageTime:0.0016818249999999701
+-------
+-------
+Dictionary Length: 20000
+Command: Search a word
+AverageTime:0.0005604000000000164
+-------
+-------
+Dictionary Length: 50000
+Command: Search a word
+AverageTime:0.0005494750000000215
+-------
+-------
+Dictionary Length: 100000
+Command: Search a word
+AverageTime:0.00039330000000004084
+-------
+-------
+Dictionary Length: 200000
+Command: Search a word
+AverageTime:0.0003438000000000607
+---------- SER -----------
+-------
+-------
+Dictionary Length: 100
+Command: AC a word
+AverageTime:0.00035797499999989935
+-------
+-------
+Dictionary Length: 200
+Command: AC a word
+AverageTime:0.0010601749999999965
+-------
+-------
+Dictionary Length: 500
+Command: AC a word
+AverageTime:0.0009730250000000717
+-------
+-------
+Dictionary Length: 1000
+Command: AC a word
+AverageTime:0.0005067750000000149
+-------
+-------
+Dictionary Length: 2000
+Command: AC a word
+AverageTime:0.0006924500000000111
+-------
+-------
+Dictionary Length: 5000
+Command: AC a word
+AverageTime:0.0003782500000000799
+-------
+-------
+Dictionary Length: 10000
+Command: AC a word
+AverageTime:0.00034157499999992735
+-------
+-------
+Dictionary Length: 20000
+Command: AC a word
+AverageTime:0.000375074999999947
+-------
+-------
+Dictionary Length: 50000
+Command: AC a word
+AverageTime:0.0009143750000000228
+-------
+-------
+Dictionary Length: 100000
+Command: AC a word
+AverageTime:0.0005976750000000197
+-------
+-------
+Dictionary Length: 200000
+Command: AC a word
+AverageTime:0.0004988249999999805
+---------- DEL -----------
+-------
+-------
+Dictionary Length: 100
+Command: Delete a word
+AverageTime:0.0004086249999999958
+-------
+-------
+Dictionary Length: 200
+Command: Delete a word
+AverageTime:0.0004490000000000327
+-------
+-------
+Dictionary Length: 500
+Command: Delete a word
+AverageTime:0.00041084999999996263
+-------
+-------
+Dictionary Length: 1000
+Command: Delete a word
+AverageTime:0.0004112999999999478
+-------
+-------
+Dictionary Length: 2000
+Command: Delete a word
+AverageTime:0.0008351249999999921
+-------
+-------
+Dictionary Length: 5000
+Command: Delete a word
+AverageTime:0.0009055250000000181
+-------
+-------
+Dictionary Length: 10000
+Command: Delete a word
+AverageTime:0.000409349999999975
+-------
+-------
+Dictionary Length: 20000
+Command: Delete a word
+AverageTime:0.0004572999999999938
+-------
+-------
+Dictionary Length: 50000
+Command: Delete a word
+AverageTime:0.00040792499999997567
+-------
+-------
+Dictionary Length: 100000
+Command: Delete a word
+AverageTime:0.0003946250000000928
+-------
+-------
+Dictionary Length: 200000
+Command: Delete a word
+AverageTime:0.0004155500000000423
+*************************
+*****TREE DICTIONARY*****
+*************************
+---------- ADD -----------
+-------
+-------
+Dictionary Length: 100
+Command: Add a word
+AverageTime:0.0005431500000003808
+-------
+-------
+Dictionary Length: 200
+Command: Add a word
+AverageTime:0.0005216500000000401
+-------
+-------
+Dictionary Length: 500
+Command: Add a word
+AverageTime:0.0005538000000000487
+-------
+-------
+Dictionary Length: 1000
+Command: Add a word
+AverageTime:0.00040832499999998717
+-------
+-------
+Dictionary Length: 2000
+Command: Add a word
+AverageTime:0.0007659999999998224
+-------
+-------
+Dictionary Length: 5000
+Command: Add a word
+AverageTime:0.0003129000000001714
+-------
+-------
+Dictionary Length: 10000
+Command: Add a word
+AverageTime:0.0002974499999999214
+-------
+-------
+Dictionary Length: 20000
+Command: Add a word
+AverageTime:0.0003330249999999868
+-------
+-------
+Dictionary Length: 50000
+Command: Add a word
+AverageTime:0.000370400000000215
+-------
+-------
+Dictionary Length: 100000
+Command: Add a word
+AverageTime:0.0003925249999998659
+-------
+-------
+Dictionary Length: 200000
+Command: Add a word
+AverageTime:0.00032322500000003807
+---------- ACP -----------
+-------
+-------
+Dictionary Length: 100
+Command: AutoComplete a word
+AverageTime:0.0011217749999998805
+-------
+-------
+Dictionary Length: 200
+Command: AutoComplete a word
+AverageTime:0.0008603249999998841
+-------
+-------
+Dictionary Length: 500
+Command: AutoComplete a word
+AverageTime:0.0005902749999997514
+-------
+-------
+Dictionary Length: 1000
+Command: AutoComplete a word
+AverageTime:0.0004918000000002642
+-------
+-------
+Dictionary Length: 2000
+Command: AutoComplete a word
+AverageTime:0.0004446250000000873
+-------
+-------
+Dictionary Length: 5000
+Command: AutoComplete a word
+AverageTime:0.0005710000000000992
+-------
+-------
+Dictionary Length: 10000
+Command: AutoComplete a word
+AverageTime:0.0008602749999999659
+-------
+-------
+Dictionary Length: 20000
+Command: AutoComplete a word
+AverageTime:0.0011885000000002588
+-------
+-------
+Dictionary Length: 50000
+Command: AutoComplete a word
+AverageTime:0.0005559000000001646
+-------
+-------
+Dictionary Length: 100000
+Command: AutoComplete a word
+AverageTime:0.0005568000000000239
+-------
+-------
+Dictionary Length: 200000
+Command: AutoComplete a word
+AverageTime:0.0005977999999999817
+---------- SER -----------
+-------
+-------
+Dictionary Length: 100
+Command: AC a word
+AverageTime:0.00030892500000012646
+-------
+-------
+Dictionary Length: 200
+Command: AC a word
+AverageTime:0.00034589999999989907
+-------
+-------
+Dictionary Length: 500
+Command: AC a word
+AverageTime:0.0010020750000003797
+-------
+-------
+Dictionary Length: 1000
+Command: AC a word
+AverageTime:0.00040527500000009375
+-------
+-------
+Dictionary Length: 2000
+Command: AC a word
+AverageTime:0.00027912500000026874
+-------
+-------
+Dictionary Length: 5000
+Command: AC a word
+AverageTime:0.0003048499999998011
+-------
+-------
+Dictionary Length: 10000
+Command: AC a word
+AverageTime:0.00037369999999969927
+-------
+-------
+Dictionary Length: 20000
+Command: AC a word
+AverageTime:0.0003359249999996816
+-------
+-------
+Dictionary Length: 50000
+Command: AC a word
+AverageTime:0.00030844999999990463
+-------
+-------
+Dictionary Length: 100000
+Command: AC a word
+AverageTime:0.00036015000000011455
+-------
+-------
+Dictionary Length: 200000
+Command: AC a word
+AverageTime:0.00029012500000002994
+---------- DEL -----------
+-------
+--DEL--
+-------
+Dictionary Length: 100
+Command: Delete a word
+AverageTime:0.000342400000000076
+-------
+--DEL--
+-------
+Dictionary Length: 200
+Command: Delete a word
+AverageTime:0.0006002000000000507
+-------
+--DEL--
+-------
+Dictionary Length: 500
+Command: Delete a word
+AverageTime:0.0007179499999998562
+-------
+--DEL--
+-------
+Dictionary Length: 1000
+Command: Delete a word
+AverageTime:0.00036450000000010085
+-------
+--DEL--
+-------
+Dictionary Length: 2000
+Command: Delete a word
+AverageTime:0.00032812500000001243
+-------
+--DEL--
+-------
+Dictionary Length: 5000
+Command: Delete a word
+AverageTime:0.0005172749999999837
+-------
+--DEL--
+-------
+Dictionary Length: 10000
+Command: Delete a word
+AverageTime:0.0003975000000000506
+-------
+--DEL--
+-------
+Dictionary Length: 20000
+Command: Delete a word
+AverageTime:0.0003891500000001713
+-------
+--DEL--
+-------
+Dictionary Length: 50000
+Command: Delete a word
+AverageTime:0.00040357499999998936
+-------
+--DEL--
+-------
+Dictionary Length: 100000
+Command: Delete a word
+AverageTime:0.0010882500000000128
+-------
+--DEL--
+-------
+Dictionary Length: 200000
+Command: Delete a word
+AverageTime:0.000758425000000118
