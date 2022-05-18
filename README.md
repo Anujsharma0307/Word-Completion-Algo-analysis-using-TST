@@ -40,6 +40,8 @@ otherwise,
 • the right pointer points to the right child-node whose letter is larger,
 • the middle pointer points to a node that stores the next letter in the word.
 As an example, consider Figure 1.
+
+
 Figure 1: An example of a ternary search tree storing five words and their frequencies. The boolean
 value (T)rue indicates that the letter is the end of a word. In that case, a frequency (an integer) is
 shown, e.g., 10 for ‘cut’. Note that a word can be a prefix of another, e.g., ‘cut’ is a prefix of ‘cute’.
