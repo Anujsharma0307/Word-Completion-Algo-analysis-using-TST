@@ -40,6 +40,7 @@ otherwise,
 • the right pointer points to the right child-node whose letter is larger,
 • the middle pointer points to a node that stores the next letter in the word.
 As an example, consider Figure 1.
+![Figure 1](https://github.com/Anujsharma0307/Word-Completion-Algo-analysis-using-TST/blob/main/Screen%20Shot%202022-05-18%20at%2011.29.19%20am.png?raw=true)
 
 ![Figure 1]([http://url/to/img.png](https://github.com/Anujsharma0307/Word-Completion-Algo-analysis-using-TST/blob/main/Screen%20Shot%202022-05-18%20at%2011.29.19%20am.png))
 
