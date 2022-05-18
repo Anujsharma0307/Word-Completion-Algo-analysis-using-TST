@@ -41,7 +41,7 @@ otherwise,
 • the middle pointer points to a node that stores the next letter in the word.
 As an example, consider Figure 1.
 
-![alt text]([http://url/to/img.png](https://github.com/Anujsharma0307/Word-Completion-Algo-analysis-using-TST/blob/main/Screen%20Shot%202022-05-18%20at%2011.29.19%20am.png))
+![Figure 1]([http://url/to/img.png](https://github.com/Anujsharma0307/Word-Completion-Algo-analysis-using-TST/blob/main/Screen%20Shot%202022-05-18%20at%2011.29.19%20am.png))
 
 Figure 1: An example of a ternary search tree storing five words and their frequencies. The boolean
 value (T)rue indicates that the letter is the end of a word. In that case, a frequency (an integer) is
